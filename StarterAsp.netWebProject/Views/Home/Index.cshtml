@@ -1,0 +1,11 @@
+﻿@model passed
+@{
+    ViewData["Title"] = "Home";
+    passed obj = (passed)ViewData["Message"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">@ViewData["Title"]</h1>
+    <p>Welcome</p>
+    <div id="divUserName">Hello @obj.First @obj.Last! </div> <!--Need to Implement this feature-->
+</div>

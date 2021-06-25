@@ -1,0 +1,74 @@
+1)DivisbileBy7 Output =>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1>GG_A1_D7.exe 382
+X = 382   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1>GG_A1_D7.exe 749
+X = 749   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1>GG_A1_D7.exe 2977
+X = 2977   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1>GG_A1_D7.exe 9989
+X = 9989   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1>GG_A1_D7.exe 52878
+X = 52878   Member?  true
+
+
+2)PowersOfTwo Output =>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_P2\GG_A1_P2\bin\Debug\netcoreapp3.1>GG_A1_P2.exe 128
+X = 128   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_P2\GG_A1_P2\bin\Debug\netcoreapp3.1>GG_A1_P2.exe 257
+X = 257   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_P2\GG_A1_P2\bin\Debug\netcoreapp3.1>GG_A1_P2.exe 1023
+X = 1023   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_P2\GG_A1_P2\bin\Debug\netcoreapp3.1>GG_A1_P2.exe 8192
+X = 8192   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_P2\GG_A1_P2\bin\Debug\netcoreapp3.1>GG_A1_P2.exe 65536
+X = 65536   Member?  true
+
+3)SumXY Output =>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1>GG_A1_SumXY.exe 12
+X = 12   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1>GG_A1_SumXY.exe 51
+X = 51   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1>GG_A1_SumXY.exe 137
+X = 137   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1>GG_A1_SumXY.exe 364
+X = 364   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1>GG_A1_SumXY.exe 589
+X = 589   Member?  true
+
+4)OddPalindrome Output=>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1>GG_A1_OddPalindrome.exe abaaba
+X = abaaba   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1>GG_A1_OddPalindrome.exe bbaabbb
+X = bbaabbb   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1>GG_A1_OddPalindrome.exe abababa
+X = abababa   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1>GG_A1_OddPalindrome.exe aabcbaa
+X = aabcbaa   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1>GG_A1_OddPalindrome.exe baabbbaab
+X = baabbbaab   Member?  true
+
+5)ContainsABA Output=>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1>GG_A1_ContainsABA.exe abaaba
+X = abaaba   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1>GG_A1_ContainsABA.exe bbaabbb
+X = bbaabbb   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1>GG_A1_ContainsABA.exe abbababa
+X = abbababa   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1>GG_A1_ContainsABA.exe aabbbbaa
+X = aabbbbaa   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1>GG_A1_ContainsABA.exe baababcab
+X = baababcab   Member?  false
+
+6)ABPlus Output=>
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe aba+ba
+X = aba+ba   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe b+ba+bb
+X = b+ba+bb   Member?  true
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe ab++ba+a
+X = ab++ba+a   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe +aab+bba
+X = +aab+bba   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe b+abb+ab+
+X = b+abb+ab+   Member?  false
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1>GG_A1_ABPlus.exe a+bbc+bba
+X = a+bbc+bba   Member?  false

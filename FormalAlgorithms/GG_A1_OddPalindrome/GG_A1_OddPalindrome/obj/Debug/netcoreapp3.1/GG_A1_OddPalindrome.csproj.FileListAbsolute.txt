@@ -1,0 +1,13 @@
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.exe
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.deps.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.runtimeconfig.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.runtimeconfig.dev.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\bin\Debug\netcoreapp3.1\GG_A1_OddPalindrome.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.AssemblyInfoInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.AssemblyInfo.cs
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_OddPalindrome\GG_A1_OddPalindrome\obj\Debug\netcoreapp3.1\GG_A1_OddPalindrome.genruntimeconfig.cache

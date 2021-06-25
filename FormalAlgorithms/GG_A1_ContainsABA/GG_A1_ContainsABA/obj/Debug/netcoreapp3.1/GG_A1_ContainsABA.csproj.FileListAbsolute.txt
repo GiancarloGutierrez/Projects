@@ -1,0 +1,13 @@
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.exe
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.deps.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.runtimeconfig.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.runtimeconfig.dev.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\bin\Debug\netcoreapp3.1\GG_A1_ContainsABA.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.AssemblyInfoInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.AssemblyInfo.cs
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ContainsABA\GG_A1_ContainsABA\obj\Debug\netcoreapp3.1\GG_A1_ContainsABA.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csprojAssemblyReference.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Form1.resources
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Properties.Resources.resources
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csproj.GenerateResource.cache
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe.config
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.pdb
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.exe
+G:\My Drive\teaching\3280\InClassDemo\Unit8\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.pdb
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe.config
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.exe
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\CS3280WinEmployee.pdb
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Form1.resources
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.Properties.Resources.resources
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csproj.GenerateResource.cache
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.exe
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.pdb
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\DataAccessLayer.dll
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\DataAccessLayer.pdb
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\bin\Debug\DataAccessLayer.dll.config
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.csproj.CopyComplete
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.MainForm.resources
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\CS3280WinEmployee\obj\Debug\CS3280WinEmployee.DepartmentsForm.resources

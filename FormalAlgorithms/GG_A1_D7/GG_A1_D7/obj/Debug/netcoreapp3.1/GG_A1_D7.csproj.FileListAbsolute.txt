@@ -1,0 +1,13 @@
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.exe
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.deps.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.runtimeconfig.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.runtimeconfig.dev.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\bin\Debug\netcoreapp3.1\GG_A1_D7.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.AssemblyInfoInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.AssemblyInfo.cs
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_D7\GG_A1_D7\obj\Debug\netcoreapp3.1\GG_A1_D7.genruntimeconfig.cache

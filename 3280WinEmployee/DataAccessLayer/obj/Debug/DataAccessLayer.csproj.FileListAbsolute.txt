@@ -1,0 +1,7 @@
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\gianc\Desktop\C#\Week9DatabaseC.net\AdoNetWinForm_Template\CS3280WinEmployee\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

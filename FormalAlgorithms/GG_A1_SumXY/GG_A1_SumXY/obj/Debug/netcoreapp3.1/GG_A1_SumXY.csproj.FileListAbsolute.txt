@@ -1,0 +1,13 @@
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.exe
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.deps.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.runtimeconfig.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.runtimeconfig.dev.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\bin\Debug\netcoreapp3.1\GG_A1_SumXY.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.AssemblyInfoInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.AssemblyInfo.cs
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_SumXY\GG_A1_SumXY\obj\Debug\netcoreapp3.1\GG_A1_SumXY.genruntimeconfig.cache

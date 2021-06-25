@@ -1,0 +1,13 @@
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.exe
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.deps.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.runtimeconfig.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.runtimeconfig.dev.json
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\bin\Debug\netcoreapp3.1\GG_A1_ABPlus.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.csprojAssemblyReference.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.AssemblyInfoInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.AssemblyInfo.cs
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.csproj.CoreCompileInputs.cache
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.dll
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.pdb
+C:\Users\gianc\Desktop\formalLang\A1\GG_A1_ABPlus\GG_A1_ABPlus\obj\Debug\netcoreapp3.1\GG_A1_ABPlus.genruntimeconfig.cache
