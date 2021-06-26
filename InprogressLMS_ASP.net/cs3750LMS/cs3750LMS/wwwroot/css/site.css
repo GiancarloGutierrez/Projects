@@ -1,0 +1,286 @@
+﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+:root {
+    --blue: #04738C;
+    --dark-blue: #023F4D;
+    --light-blue: #07B2D9;
+    --indigo: #6610f2;
+    --purple: #4D00CB;
+    --dark-purple: #380091;
+    --light-purple #6200FF;
+    --pink: #e83e8c;
+    --red: #BF3C30;
+    --dark-red: #802820;
+    --light-red: #F04B3C;
+    --orange: #D94B2B;
+    --dark-orange: #99351F;
+    --light-orange: #F7612A;
+    --yellow: #F5CF47;
+    --dark-yellow: #E3B22B;
+    --light-yellow: #FFE074;
+    --green: #30BF70;
+    --dark-green: #20804B;
+    --light-green: #39E687;
+    --teal: #03998F;
+    --dark-teal: #024D48;
+    --light-teal: #04C4B8;
+    --cyan: #17a2b8;
+    --off-white: #F2F0CE;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: var(--blue);
+    --secondary: var(--orange);
+    --success: var(--teal);
+    --info: var(--light-blue);
+    --warning: var(--light-orange);
+    --danger: var(--red);
+    --light: var(--off-white);
+    --dark: var(--dark-blue);
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.container-fluid, main {
+    min-height: 100%;
+}
+
+.bg-light {
+    background-color: var(--light);
+}
+
+.bg-white {
+    background-color: var(--white);
+}
+
+.bg-dark {
+    background-color: var(--dark);
+}
+
+.bg-primary {
+    background-color: var(--primary);
+}
+
+.bg-secondary {
+    background-color: var(--secondary);
+}
+
+.bg-info {
+    background-color: var(--info);
+}
+
+.bg-success {
+    background-color: var(--success);
+}
+
+.bg-warning {
+    background-color: var(--warning);
+}
+
+.bg-danger {
+    background-color: var(--danger);
+}
+
+.text-light {
+    color: var(--light);
+}
+
+.text-white {
+    color: var(--white);
+}
+
+.text-dark {
+    color: var(--dark);
+}
+
+.text-primary {
+    color: var(--primary);
+}
+
+.text-secondary {
+    color: var(--secondary);
+}
+
+.text-info {
+    color: var(--info);
+}
+
+.text-success {
+    color: var(--success);
+}
+
+.text-warning {
+    color: var(--warning);
+}
+
+.text-danger {
+    color: var(--danger);
+}
+
+body {
+    background-color: var(--off-white);
+    color: var(--dark);
+}
+
+a.navbar-brand {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+  color: var(--orange);
+}
+
+.navbar-dark .navbar-brand {
+    color: var(--orange);
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: var(--blue);
+}
+
+a:hover {
+    color: var(--light-blue);
+}
+
+.btn-primary {
+    color: var(--white);
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+
+.btn-primary:hover {
+    color: var(--white);
+    background-color: var(--dark-blue);
+    border-color: var(--dark-blue);
+}
+
+.btn-success {
+    color: var(--white);
+    background-color: var(--success);
+    border-color: var(--success);
+}
+
+.btn-success:hover {
+    color: var(--white);
+    background-color: var(--dark-teal);
+    border-color: var(--dark-teal);
+}
+
+.btn-danger {
+    color: var(--white);
+    background-color: var(--danger);
+    border-color: var(--danger);
+}
+
+.btn-danger:hover {
+    color: var(--white);
+    background-color: var(--dark-red);
+    border-color: var(--dark-red);
+}
+
+.btn-warning {
+    color: var(--white);
+    background-color: var(--warning);
+    border-color: var(--warning);
+}
+
+.btn-warning:hover {
+    color: var(--white);
+    background-color: var(--dark-orange);
+    border-color: var(--dark-orange);
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.hero {
+    min-height: inherit;
+    background: no-repeat center/100% url("../Images/hero/hero-2000x1080.jpg");
+}
+@media (max-width: 768px) {
+    .hero {
+        background: no-repeat center/80% url("../Images/hero/hero-800x1200.jpg");
+    }
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.border-top {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px; /* Vertically center the text there */
+}
+
+
+/* NavBar Bell Icon Styling 
+ -------------------------------------------*/
+.ringAnimation{
+  animation-name:ring;
+  animation-duration:1s;
+  animation-iteration-count:1;
+}
+
+@keyframes ring{
+  0% { transform:  rotate(0deg); }
+  10% { transform:  rotate(-5deg); }
+  20% { transform: rotate(-10deg); }
+  30% { transform: rotate(0deg); }
+  40% { transform: rotate(5deg); }
+  50% { transform:  rotate(10deg); }
+  60% { transform:  rotate(0deg); }
+  70% { transform: rotate(-5deg); }
+  80% { transform: rotate(-10deg); }
+  100% { transform: rotate(0deg); }
+
+}
